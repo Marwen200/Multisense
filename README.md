@@ -1,6 +1,8 @@
 # Multisense
 
-Dataset Description
+Dataset Description:
+
+
 Full inbalenced dataset can be downloaded on the IEEE Dataport from this link
 
 https://doi.org/10.21227/cxy4-1136
