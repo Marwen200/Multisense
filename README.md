@@ -1,6 +1,9 @@
 # Multisense
 
 Dataset Description
+Full inbalenced dataset can be downloaded on the IEEE Dataport from this link
+
+https://doi.org/10.21227/cxy4-1136
 
 This dataset, named MultiSense, is designed to enhance disaster response by providing comprehensive data from multiple sources. It comes in two versions: balanced and unbalanced. The dataset consists of five distinct classes, each representing different types of events or conditions:
 
