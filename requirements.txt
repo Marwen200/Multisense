@@ -1,0 +1,37 @@
+# MultiSense — Python dependencies
+# Tested on Python 3.10, CUDA 11.8  (ASUS ROG, RTX 3050Ti — Section 8 of the paper)
+#
+# Install:
+#   pip install -r requirements.txt
+#
+# Cite:
+#   Bouabid, M., & Farah, M. (2025). MultiSense. The Visual Computer.
+#   https://github.com/Marwen200/Multisense
+
+# ── Core deep learning ──────────────────────────────────────────────────────
+torch==2.0.1
+torchvision==0.15.2
+# CUDA 11.8 wheels (uncomment and remove lines above if using pip with --index-url):
+# --index-url https://download.pytorch.org/whl/cu118
+# torch==2.0.1+cu118
+# torchvision==0.15.2+cu118
+
+# ── Image processing ────────────────────────────────────────────────────────
+Pillow==10.0.0
+
+# ── Numerical / scientific ──────────────────────────────────────────────────
+numpy==1.24.3
+
+# ── Progress bars ───────────────────────────────────────────────────────────
+tqdm==4.65.0
+
+# ── Metrics (AUC computation) ───────────────────────────────────────────────
+scikit-learn==1.3.0
+
+# ── Optional: TensorBoard logging ───────────────────────────────────────────
+tensorboard==2.13.0
+
+# ── Optional: Jupyter notebooks (attention profile visualisation) ────────────
+jupyter==1.0.0
+matplotlib==3.7.2
+seaborn==0.12.2
