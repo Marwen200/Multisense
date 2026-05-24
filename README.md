@@ -9,7 +9,6 @@
 > **Published in:** *The Visual Computer* — Springer, 2025  
 > **Authors:** Marwen Bouabid · Mohamed Farah  
 > **Institution:** ENSI, RIADI Laboratory LR99ES26, University of Manouba, Tunisia  
-> **Code DOI:** https://doi.org/10.5281/zenodo.XXXXXXX
 
 ---
 
@@ -265,9 +264,8 @@ If you use this code or the MultiSense dataset, please cite:
                in Smart Cities},
   journal   = {The Visual Computer},
   publisher = {Springer},
-  year      = {2025},
+  year      = {2026},
   url       = {https://github.com/Marwen200/Multisense},
-  doi       = {10.5281/zenodo.XXXXXXX}
 }
 ```
 
